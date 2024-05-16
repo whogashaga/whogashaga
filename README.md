@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerry</h1>
-<h3 align="center">A passionate Android App developer from Taipei</h3>
+<h3 align="center">A passionate coder from Taipei</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whogashaga&label=Profile%20views&color=0e75b6&style=flat" alt="whogashaga" /> </p>
@@ -26,9 +26,9 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whogashaga&show_icons=true&locale=en&layout=compact&theme=radical" alt="whogashaga" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whogashaga&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="whogashaga" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whogashaga&show_icons=true&locale=en" alt="whogashaga" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whogashaga&show_icons=true&locale=en&theme=tokyonight" alt="whogashaga" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whogashaga&" alt="whogashaga" /></p>
 
