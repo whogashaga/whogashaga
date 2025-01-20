@@ -1,7 +1,6 @@
 <h1 align="center">👋, I'm Kerry</h1>
-<h3 align="center">I am a passionate programmer and quick learner with expertise in Android development and a strong command of programming languages such as Kotlin, Java, Python, and C++. With nearly four years of professional experience, I specialize in building scalable Android applications, implementing robust architectures like MVVM and MVP, and optimizing performance. I thrive on solving complex challenges, continuously learning new technologies, and creating impactful solutions that enhance user experiences. My dedication to excellence and adaptability make me an asset in dynamic and fast-paced environments.
-
-</h3>
+<h4 align="start">I am a passionate programmer and quick learner with expertise in Android development and a strong command of programming languages such as Kotlin, Java, Python, and C++. With nearly four years of professional experience, I specialize in building scalable Android applications, implementing robust architectures like MVVM and MVP, and optimizing performance. I thrive on solving complex challenges, continuously learning new technologies, and creating impactful solutions that enhance user experiences. My dedication to excellence and adaptability make me an asset in dynamic and fast-paced environments.
+</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whogashaga&label=Profile%20views&color=0e75b6&style=flat" alt="whogashaga" /> </p>
