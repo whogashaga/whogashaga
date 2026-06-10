@@ -1,13 +1,29 @@
-<h1 align="center">👋, I'm Kerry</h1>
-<h3 align="start">I am a passionate programmer and quick learner with expertise in Android development and a strong command of programming languages such as Kotlin, Java, Python, and C++. With nearly four years of professional experience, I specialize in building scalable Android applications, implementing robust architectures like MVVM and MVP, and optimizing performance. I thrive on solving complex challenges, continuously learning new technologies, and creating impactful solutions that enhance user experiences. My dedication to excellence and adaptability make me an asset in dynamic and fast-paced environments.
-</h3>
+# 👋, I'm Kerry
 
+I am an **experienced engineer with over 8 years of cross-disciplinary expertise** spanning hardware design, system diagnostics, and professional software engineering. My unique background allows me to solve complex platform bottlenecks by bridging the gap between physical hardware behavior and advanced software practices.
+
+Currently, I focus on failure analysis and automated platform triage for next-generation, high-density AI server architectures, including the NVIDIA GB300 and VR200 platforms. On GitHub, I showcase how I apply robust software development patterns to build smarter validation utilities, parse low-level logs, and automate laboratory test environments.
+
+---
+
+### 🚀 Hybrid Expertise & Engineering Focus
+
+*   **Software Engineering & Architecture:** Experienced in building scalable, production-grade applications using Kotlin, Java, and C++. Proficient in mobile application architecture (MVVM, MVP), setting up automated CI/CD workflows (Jenkins), and cloud database integration (Firebase).
+*   **Hardware Automation & Logistics:** Utilizing Python and Linux shell scripting to create log parsers and automation tools that accelerate runtime bus debugging and diagnostic triage.
+*   **System Diagnostics & Validation:** Strong background analyzing system communication layers (PCIe, CXL, SerDes, I2C, SPI) and performing component-level failure isolation to verify product integrity.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+*   **Languages & Frameworks:** Python, Kotlin, Java, C++, Bash, Verilog, SystemVerilog, Android SDK
+*   **DevOps & Databases:** Git/Version Control, Docker, Jenkins, Firebase, Postman
+*   **Hardware & Protocols:** PCIe, CXL, SerDes, I2C, SPI, BMC Architecture, Voltage Rail Margin Testing, Signal Analysis
+*   **ECAD & Lab Tools:** Cadence OrCAD, Allegro, High-Bandwidth Oscilloscopes, Logic Analyzers
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whogashaga&label=Profile%20views&color=0e75b6&style=flat" alt="whogashaga" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whogashaga" alt="whogashaga" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p align="left">
 </p>
@@ -29,5 +45,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whogashaga&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="whogashaga" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whogashaga&show_icons=true&locale=en&theme=tokyonight" alt="whogashaga" /></p>
+
 
